@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.ddbbc221.chunk.css",
-    "main.js": "./static/js/main.3a7e6969.chunk.js",
-    "main.js.map": "./static/js/main.3a7e6969.chunk.js.map",
+    "main.css": "./static/css/main.3c7c83b9.chunk.css",
+    "main.js": "./static/js/main.3bf8921a.chunk.js",
+    "main.js.map": "./static/js/main.3bf8921a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.e610341c.chunk.js": "./static/js/2.e610341c.chunk.js",
-    "static/js/2.e610341c.chunk.js.map": "./static/js/2.e610341c.chunk.js.map",
+    "static/js/2.80da5136.chunk.js": "./static/js/2.80da5136.chunk.js",
+    "static/js/2.80da5136.chunk.js.map": "./static/js/2.80da5136.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.ddbbc221.chunk.css.map": "./static/css/main.ddbbc221.chunk.css.map",
-    "static/js/2.e610341c.chunk.js.LICENSE.txt": "./static/js/2.e610341c.chunk.js.LICENSE.txt",
+    "static/css/main.3c7c83b9.chunk.css.map": "./static/css/main.3c7c83b9.chunk.css.map",
+    "static/js/2.80da5136.chunk.js.LICENSE.txt": "./static/js/2.80da5136.chunk.js.LICENSE.txt",
     "static/media/LOGO.13ce922e.svg": "./static/media/LOGO.13ce922e.svg",
-    "static/media/CartPage.scss": "./static/media/cross.d99189a5.svg",
+    "static/media/Footer.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/Search.scss": "./static/media/Union.2063b2da.svg",
     "static/media/HomePage.scss": "./static/media/tablets.ad7ca82a.png",
     "static/media/BackButton.scss": "./static/media/activeleft.081ebe62.svg",
@@ -19,14 +19,15 @@
     "static/media/App.scss": "./static/media/removeactive.d4055954.svg",
     "static/media/Select.scss": "./static/media/arrowup.df6c57d0.svg",
     "static/media/HeaderButton.scss": "./static/media/fav.b9afcea2.svg",
+    "static/media/CartPage.scss": "./static/media/cross.d99189a5.svg",
     "static/media/picone.1adf58ea.png": "./static/media/picone.1adf58ea.png",
     "static/media/picthree.bdd2e0fc.png": "./static/media/picthree.bdd2e0fc.png",
     "static/media/pictwo.a962057c.png": "./static/media/pictwo.a962057c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.e610341c.chunk.js",
-    "static/css/main.ddbbc221.chunk.css",
-    "static/js/main.3a7e6969.chunk.js"
+    "static/js/2.80da5136.chunk.js",
+    "static/css/main.3c7c83b9.chunk.css",
+    "static/js/main.3bf8921a.chunk.js"
   ]
 }
